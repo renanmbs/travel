@@ -50,3 +50,13 @@ ul{
 h3{
   margin-top: 1%;
 }
+
+@media only screen and (max-width:660px){
+  #top{
+    margin: auto 10%;
+  }
+
+  label{
+    margin: 5% 5%;
+  }
+}
