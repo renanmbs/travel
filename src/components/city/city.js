@@ -22,6 +22,8 @@ export class Cities extends React.Component{
                         <Miami choice={this.props.choice} />
                     </div>
                 )
+            default:
+                return ""
         }
        
     }
