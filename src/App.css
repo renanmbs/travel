@@ -53,10 +53,10 @@ h3{
 
 @media only screen and (max-width:660px){
   #top{
-    margin: auto 8%;
+    margin: auto 5%;
   }
 
-  label{
-    margin: 5% 2%;
+  #buttons label{
+    margin: 5% 1%;
   }
 }
