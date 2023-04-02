@@ -1,8 +1,8 @@
 import React from "react";
 
-const stores = ["Bayside Mall","Pele Store","Aventura Mall", "Sawgrass Mills"];
-const food = ["Moji African Restaurant","Norman's Tavern","Santos Buffet", "Miami N' Ice", "Safron"];
-const relax = ["Ocean Drive","Lincoln Road","Wynwood Wall", "Kayak Renting", "South Pointe Park", "Venetian Pool", "Flamingo Park"];
+const stores = ["Bayside Mall","Pele Store ✅","Aventura Mall", "Sawgrass Mills"];
+const food = ["Moji African Restaurant ✅","Norman's Tavern","Santos Buffet", "Miami N' Ice ✅", "Safron ✅"];
+const relax = ["Ocean Drive ✅","Lincoln Road  ✅","Wynwood Wall", "Kayak Renting", "South Pointe Park", "Venetian Pool", "Flamingo Park ✅"];
 const entertainment = ["Phillip and Patricia Frost Museum of Science","Ancient Spanish Monastery","Vizcaya Museum and Gardens", "Miami Aquarium"];
 
 export class Miami extends React.Component{

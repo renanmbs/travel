@@ -1,12 +1,11 @@
 import React from "react";
 
 const stores = ["Florida Mall","Waterford Lakes Town Center","Orlando International Premium Outlet Mall", "The Mall at Millenia","Lake Buena Vista Factory Store", 
-"Orlando Vineland Premium Outlet", "Orlando Outlet Marketplace"];
-const food = ["Camila's Brazilian Restaurant","Shisho Sushi","Hidden Sushi", "Suki Hanna", "Tony's Brazilian Grill"];
-const relax = ["Icon Park","Cocoa Beach","XL Soccer World Winter Park", "UCF Campus", "High Soccer Arena",
-"Airport Lakes","Barber Park","Young Pine Park", "Free Kick Orlando", "Disney's Boardwalk", "The Pointe", "Thornton Park", "Winter Garden"];
+"Orlando Vineland Premium Outlet", "Orlando Outlet Marketplace ✅", "Express Factory Outlet ✅"];
+const food = ["Camila's Brazilian Restaurant","Shisho Sushi","Hidden Sushi", "Suki Hanna", "Tony's Brazilian Gril ✅"];
+const relax = ["Icon Park","Cocoa Beach","XL Soccer World Winter Park ✅", "UCF Campus", "High Soccer Arena", "Free Kick Orlando", "Disney's Boardwalk", "The Pointe", "Thornton Park", "Winter Garden"];
 const entertainment = ["Disney Springs","Disney Parks", "EA Sports Downtown", "Universal City Walk", "Old Town",
-"Celebration Town Center", "Orlando Science Center", "Universal Studios", "IDrive Orlando", "Roboland","Titanic Museum","NASA",];
+"Celebration Town Center", "Orlando Science Center", "Universal Studios", "IDrive Orlando", "Roboland","Titanic Museum", "NASA"];
 
 export class Orlando extends React.Component{
     
