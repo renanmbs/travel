@@ -68,4 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# travel
+
+<h1>Travel Bucket List</h1>
+<p>This website holds all the interest points of cities I am travelling to. It includes categories like restaurants, stores, relaxing and entertainment. It also renders different pictures according to the city chosen</p>
+<a href="https://my-travel-list.netlify.app/">Live Website</a>
