@@ -1,7 +1,7 @@
-import "./city.css";
 import React from "react";
 import { Orlando } from "../orlando/orlando";
 import { Miami } from "../miami/miami";
+import { Vegas } from "../vegas/vegas";
 
 export class Cities extends React.Component{
 
@@ -20,6 +20,13 @@ export class Cities extends React.Component{
                     <div>
                         <h3>{this.props.choice}</h3>
                         <Miami choice={this.props.choice} />
+                    </div>
+                )
+            case "Vegas":
+                return(
+                    <div>
+                        <h3>{this.props.choice}</h3>
+                        <Vegas choice={this.props.choice}/>
                     </div>
                 )
             default:

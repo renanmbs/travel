@@ -30,6 +30,7 @@ function App() {
             <option value={""} selected disabled>Default</option>
             <option value={"Orlando"}>Orlando</option>
             <option value={"Miami"}>Miami</option>
+            <option value={"Vegas"}>Vegas</option>
           </select>
           </label>
 
