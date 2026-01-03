@@ -6,8 +6,12 @@
   list-style: none;
 }
 
+body{
+  min-height: 100vh;
+}
+
 .base{
-  min-height:55rem;
+  min-height:120vh;
   min-width: 100%;
   background-repeat: none;
   background-size: cover;

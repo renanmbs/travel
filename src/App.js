@@ -31,6 +31,7 @@ function App() {
             <option value={"Orlando"}>Orlando</option>
             <option value={"Miami"}>Miami</option>
             <option value={"Vegas"}>Vegas</option>
+            <option value={"NewYork"}>New York</option>
           </select>
           </label>
 
@@ -56,7 +57,7 @@ function App() {
               <input type={"radio"} name="choice" id="store" value={"Stores"} />
             </label>
           </div>
-          {city === "" ? "" : <h2>Travelling to {city}</h2>}
+          {city === "" ? "" : <h2>Travelling to {city !== 'NewYork' ? city : 'New York'}</h2>}
           <Cities city={city} choice={choice}/>
         </div>
         </form>
